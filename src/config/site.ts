@@ -1,5 +1,5 @@
 export const siteConfig = {
-  name: "Little Stars Preschool",
+  name: "school name/logo",
   description: "A nurturing and playful environment for your child's early education.",
   contact: {
     email: "hello@littlestars.com",
